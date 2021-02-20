@@ -1,6 +1,6 @@
-# ScholoPsycho
-
-<h2>Coding Competitions </h2>
+ # <div align=”center”>[ScholoPsycho]</div>
+<ul>
+  <li><h2>Coding Competitions </h2></li>
 
 | Name & Link       | Tentative deadline |
 | ------------- | -----:|
@@ -15,7 +15,7 @@
 |[Amdocs Hackfest](https://www.hackerearth.com/challenges/competitive/amdocs-hackfest-2021/?share=true&register_success=true)| Mar|
 
 
-<h2>Open Source Programs</h2>
+<li><h2>Open Source Programs</h2></li>
 
 | Name & Link       | Tentative deadline |
 | ------------- | -----:|
@@ -31,7 +31,7 @@
 
 
 
-<h2>Internship opportunities</h2>
+<li><h2>Internship opportunities</h2></li>
 
 | Name & Link       | Internship Period | Tenative Deadline |
 | ------------- | -----:| -----:|
@@ -45,7 +45,7 @@
 
 
 
-<h2>Scholarship & Mentorship Programs</h2>
+<li><h2>Scholarship & Mentorship Programs</h2></li>
 
 | Name & Link       | Tentative deadline |
 | ------------- | -----:|
@@ -76,7 +76,7 @@
 
 
 
-<h2>Student Programs</h2>
+<li><h2>Student Programs</h2></li>
 
 | Name & Link       | Tentative deadline |
 | ------------- | -----:|
@@ -88,7 +88,7 @@
 
 
 
-<h2>Miscellaneous</h2>
+<li><h2>Miscellaneous</h2></li>
 
 | Name & Link       | Tentative deadline |
 | ------------- | -----:|
@@ -96,7 +96,7 @@
 | [Expedia Travel Transforms](https://www.interviewbit.com/contest/travel-transforms-2021--discover-what-you-do-best/)| Feb |
 | [Facebook Data Challenge](https://datachallenge2021.splashthat.com/) | Jan- Mar |
 
-
+</ul>
 
 
 
