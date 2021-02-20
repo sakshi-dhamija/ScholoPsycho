@@ -1,6 +1,12 @@
  # ScholoPyscho
  ### {A curated list of Internships, Scholarships and Competitions for Undergraduate Engineering Students!}
  
+
+
+
+
+
+
 <ul>
   <li><h2>Coding Competitions </h2></li>
 
@@ -101,6 +107,10 @@
 </ul>
 
 
+
+
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 
 
