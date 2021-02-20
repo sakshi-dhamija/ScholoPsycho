@@ -20,11 +20,20 @@
 | Name & Link       | Tentative deadline |
 | ------------- | -----:|
 |[Google Season of Docs](https://developers.google.com/season-of-docs/docs/timeline)| Apr- May|
+| [Google Summer Of Code, GSOC](https://developers.google.com/open-source/gsoc/timeline)| Mar- Apr|
+|[GirsScript Summer Of Code, GSSOC](https://gssoc.girlscript.tech/)|Jan-Feb |
+|[Rails Girls Summer of Code, RGSOC](https://railsgirlssummerofcode.org/) | Mar|
 
 <h2>Internship opportunities</h2>
 
-| Name & Link       | Tentative deadline |
-| ------------- | -----:|
+| Name & Link       | Internship Period | Tenative Deadline |
+| ------------- | -----:| -----:|
+|[Tern Virtual Internship, Twitter](https://internshipprogram.splashthat.com/) | June- Sept| |   
+|[NestJen Twitter](https://nestgen.splashthat.com/)| June- Sept||
+|[Microsoft Internships](https://www.microsoft.com/en-ie/earlycareers/internsapprenticeships)|||
+|[Amaze WOW by Amazon](https://www.geeksforgeeks.org/amazon-wow-program-for-batch-2021-and-2022/)||Apr- May|
+|[Summer Garage Internship Program, Microsoft](https://careers.microsoft.com/us/en/job/929490/Intern-Opportunities-for-Students-Summer-Garage-Internship-Program-Software-Engineering-Program-Management-Vancouver)|||
+
 
 <h2>Scholarship & Mentorship Programs</h2>
 
@@ -40,6 +49,8 @@
 |[Google Conference and Travel Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/)| Open all year!|
 |[Qualcomm Innovator Felowship Program](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2021-india)|Feb- Mar|
 |[SWE Scholarship](https://scholarships.swe.org/applications/login.asp)|Jan- Feb|
+|[Education Scholarships](https://www.diversifytech.co/education-scholarships)| |
+
 
 <h2>Campus Ambassador Programs</h2>
 
@@ -47,12 +58,22 @@
 | ------------- | -----:|
 |[Intel Student Ambassador](https://software.intel.com/content/www/us/en/develop/community/ambassadors.html)| |
 
+<h2>Student Programs</h2>
+
+| Name & Link       | Tentative deadline |
+| ------------- | -----:|
+|[DevelopHer by Twitter](https://developher.org/)| |
+|[You Belong In Tech by Twitter](https://twitterudiversity.splashthat.com/)| |
+
+
+
 
 <h2>Miscellaneous</h2>
 
 | Name & Link       | Tentative deadline |
 | ------------- | -----:|
 | [Grace Hopper Celebrations](https://ghc.anitab.org/attend/academics/) | Jan- Feb|
+
 
 
 
