@@ -19,13 +19,14 @@
 
 | Name & Link       | Tentative deadline |
 | ------------- | -----:|
+|[Google Season of Docs](https://developers.google.com/season-of-docs/docs/timeline)| Apr- May|
 
 <h2>Internship opportunities</h2>
 
 | Name & Link       | Tentative deadline |
 | ------------- | -----:|
 
-<h2>Scholarships</h2>
+<h2>Scholarship & Mentorship Programs</h2>
 
 | Name & Link       | Tentative deadline |
 | ------------- | -----:|
@@ -35,11 +36,17 @@
 | [Linux Foundation Training, LIFT Scholarship](https://www.linuxfoundation.org/en/about/diversity-inclusivity/lift-scholarships/)||
 | [Western Digital STEM scholarship, we.care](https://www.westerndigital.com/company/corporate-philanthropy/scholarship-programs)| Jan- Mar |
 | [Bertelsmann Scholarship](https://www.udacity.com/bertelsmann-tech-scholarships)| Sept- Nov|
+|[LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)| Mar- Apr|
+|[Google Conference and Travel Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/)| Open all year!|
+|[Qualcomm Innovator Felowship Program](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2021-india)|Feb- Mar|
+|[]||
 
 <h2>Campus Ambassador Programs</h2>
 
 | Name & Link       | Tentative deadline |
 | ------------- | -----:|
+|[Intel Student Ambassador](https://software.intel.com/content/www/us/en/develop/community/ambassadors.html)| |
+
 
 <h2>Miscellaneous</h2>
 
