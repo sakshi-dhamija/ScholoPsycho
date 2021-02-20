@@ -1,4 +1,6 @@
- # <div align=”center”>[ScholoPsycho]</div>
+ # ScholoPyscho
+ ### {A curated list of Internships, Scholarships and Competitions for Undergraduate Engineering Students!}
+ 
 <ul>
   <li><h2>Coding Competitions </h2></li>
 
@@ -97,6 +99,8 @@
 | [Facebook Data Challenge](https://datachallenge2021.splashthat.com/) | Jan- Mar |
 
 </ul>
+
+
 
 
 
