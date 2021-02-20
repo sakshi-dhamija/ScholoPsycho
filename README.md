@@ -29,9 +29,23 @@
 
 | Name & Link       | Tentative deadline |
 | ------------- | -----:|
+| [Adobe WIT](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) | Aug- Sept |
+| [Nutanix Hybrid Cloud Scholarship](https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program)| Mar-May|
+| [WTM Scholarship](https://www.womentechmakers.com/initiatives) | Apr|
+| [Linux Foundation Training, LIFT Scholarship](https://www.linuxfoundation.org/en/about/diversity-inclusivity/lift-scholarships/)||
+| [Western Digital STEM scholarship, we.care](https://www.westerndigital.com/company/corporate-philanthropy/scholarship-programs)| Jan- Mar |
+| [Bertelsmann Scholarship](https://www.udacity.com/bertelsmann-tech-scholarships)| Sept- Nov|
+
+<h2>Campus Ambassador Programs</h2>
+
+| Name & Link       | Tentative deadline |
+| ------------- | -----:|
 
 <h2>Miscellaneous</h2>
 
 | Name & Link       | Tentative deadline |
 | ------------- | -----:|
+| [Grace Hopper Celebrations](https://ghc.anitab.org/attend/academics/) | Jan- Feb|
+
+
 
