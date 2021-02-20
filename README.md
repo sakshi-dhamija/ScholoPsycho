@@ -39,7 +39,7 @@
 |[LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)| Mar- Apr|
 |[Google Conference and Travel Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/)| Open all year!|
 |[Qualcomm Innovator Felowship Program](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2021-india)|Feb- Mar|
-|[]||
+|[SWE Scholarship](https://scholarships.swe.org/applications/login.asp)|Jan- Feb|
 
 <h2>Campus Ambassador Programs</h2>
 
