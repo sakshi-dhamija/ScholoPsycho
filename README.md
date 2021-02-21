@@ -121,8 +121,8 @@
 |[Google Cloud](https://www.youtube.com/watch?v=C7n4AYEXE2Q)|Oct|
 |[Alexa, Hoodie or Echo Dot](https://developer.amazon.com/en-AU/alexa/alexa-skills-kit/new/promotions)|Open multiple times a year|
 |[Codeship Tshirt & Stickers](https://www.cloudbees.com/products/codeship)|Open All year!|
-|[Gatsby](https://www.gatsbyjs.com/contributing/contributor-swag/)||
-|[Erxes](https://erxes.io/hubspot-alternative-erxes-swag)||
+|[Gatsby](https://www.gatsbyjs.com/contributing/contributor-swag/)|Open All year!|
+|[Erxes](https://erxes.io/hubspot-alternative-erxes-swag)|Open All year!|
 
 
 
@@ -152,8 +152,10 @@
 
 
 </ul>
+<h3>Note:</h3>
 
-
+- If You have details of any more such programs which are missing from here, do make a PR.
+- While making the PR, try to provide official link for the respective program/opportunity!
 
 
 
