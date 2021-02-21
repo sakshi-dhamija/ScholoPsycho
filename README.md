@@ -36,6 +36,8 @@
 |[Codeheat, FOSSASIA](https://codeheat.org/#timeline)||
 |[Segment Open](https://segment.com/opensource/#details)||
 |[Open Source Hack, Anita B.or](https://anitab-org.github.io/events/open-source-hack/)| Feb |
+|[HacktoberFest](https://hacktoberfest.digitalocean.com/)|Oct|
+|[Season of KDE](https://season.kde.org/)|Dec- Jan|
 
 
 
@@ -109,6 +111,19 @@
 | [HyperLedger Mentorship Program](https://www.igalia.com/coding-experience/)| Mar-May|
 |[Goldman Sachs Global Scholarship and Mentorship Program](https://www.outreachy.org/)|Nov - Jan|
 |[Nutanix .heart WIT Scholarship](https://www.nutanix.com/scholarships)|Nov -May|
+
+
+<li><h2>Programs to Recieve Goodies</h2></li>
+
+| Name & Link       | Duration |
+| ------------- | -----:|
+|[Google Assistant T shirt, Google Home](https://medium.com/voice-tech-podcast/how-i-received-google-home-google-assistant-t-shirt-and-200-credit-every-month-for-google-cloud-bc3134b721bb)| Open all year|
+|[Google Cloud](https://www.youtube.com/watch?v=C7n4AYEXE2Q)|Oct|
+|[Alexa, Hoodie or Echo Dot](https://developer.amazon.com/en-AU/alexa/alexa-skills-kit/new/promotions)|Open multiple times a year|
+|[Codeship Tshirt & Stickers](https://www.cloudbees.com/products/codeship)|Open All year!|
+|[Gatsby](https://www.gatsbyjs.com/contributing/contributor-swag/)||
+|[Erxes](https://erxes.io/hubspot-alternative-erxes-swag)||
+
 
 
 
