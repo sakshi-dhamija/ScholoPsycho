@@ -54,6 +54,36 @@
 
 
 
+
+
+<li><h2>Hackathons 2021</h2></li>
+
+| Name & Link       | Tentative deadline |
+| ------------- | -----:|
+| [HackVerse 2.0](https://hackverse.nitk.ac.in/) | 24th Feb|
+| [HackerBash](https://hackerbash.csikjsce.org/) | 24th Feb |
+| [SpaceJam](https://hackerspace-pesu.herokuapp.com/SpaceJam)| 27th Feb |
+| [HackTU 2.0](https://hacktu.ccstiet.com/) | 26th Feb|
+| [Hack-a-Sol](https://hackasol.tech/)| 26th Feb |
+| [Innerve 5.0](https://innerve24hrs.in/) | 28th Feb|
+| [Makethon3077](https://makeathon3077.msctiet.co.in/) | 5th Mar |
+| [UtkalHacks 3.0](https://utkalhacks.tech/)| 5th Mar |
+| [SheHacks](https://shehacks.tech/)| 12th Mar |
+| [HackBash](https://dsc-hackbash-2021.web.app/) | 13th Mar |
+| [Ed Tech Hackathon](http://www.et.iitb.ac.in/hackathon/) | 13th Mar|
+| [HackNITR 2.0](https://hacknitr.tech/) | 19th Mar|
+| [BitBox](https://dscjiit128.studio/#/bitbox) | 26th Mar |
+| [Equinox](https://www.equinoxhack.in/)| 26th Mar |
+| [HackTrix](https://hacktrix.ieeesrmist.in/) | 2nd Apr |
+| [IsoHack 2.0](https://www.isohack.in/) | 10th Apr|
+| [Acf Family Fitness](https://aff.acf4all.io/) | 23th Apr|
+| [HackBMU 4.0](https://www.hackbmu.tech/)| 23th Apr |
+| [Hack The Mountains](https://hackthemountain.tech/) | 26th Jun |
+
+
+
+
+
 <li><h2>Scholarship & Mentorship Programs</h2></li>
 
 | Name & Link       | Tentative deadline |
@@ -104,6 +134,7 @@
 | [Grace Hopper Celebrations](https://ghc.anitab.org/attend/academics/) | Jan- Feb|
 | [Expedia Travel Transforms](https://www.interviewbit.com/contest/travel-transforms-2021--discover-what-you-do-best/)| Feb |
 | [Facebook Data Challenge](https://datachallenge2021.splashthat.com/) | Jan- Mar |
+
 
 </ul>
 
