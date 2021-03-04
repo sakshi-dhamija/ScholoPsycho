@@ -81,6 +81,7 @@
 | [Acf Family Fitness](https://aff.acf4all.io/) | 23th Apr|
 | [HackBMU 4.0](https://www.hackbmu.tech/)| 23th Apr |
 | [Hack The Mountains](https://hackthemountain.tech/) | 26th Jun |
+|[SheCanSTEM](https://docs.google.com/forms/d/e/1FAIpQLSe1QwC_FFD501QGPvkSK1hYDLqD5anfX0fnyZPk2VmHlsSgVQ/viewform)|Mar|
 
 
 
@@ -93,7 +94,6 @@
 |[MLH Fellowship](https://fellowship.mlh.io/#programs)|Diff cycles throughout the year|
 |[Global Impact Scholarship, Palantir](https://www.palantir.com/students/scholarship/global-impact/)| Apr|
 |[DE Shaw Fellowships](https://fellowships.deshaw.com/)||
-|[Adobe Design Circle Scholarship](https://fellowships.deshaw.com/)|Mar|
 | [Adobe WIT](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) | Aug- Sept |
 | [Nutanix Hybrid Cloud Scholarship](https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program)| Mar-May|
 | [WTM Fellowship](https://www.womentechmakers.com/initiatives) | Apr|
@@ -111,6 +111,11 @@
 | [HyperLedger Mentorship Program](https://www.igalia.com/coding-experience/)| Mar-May|
 |[Goldman Sachs Global Scholarship and Mentorship Program](https://www.outreachy.org/)|Nov - Jan|
 |[Nutanix .heart WIT Scholarship](https://www.nutanix.com/scholarships)|Nov -May|
+|[Adobe Design Circle Scholarship](https://www.iie.org/Programs/Adobe-Design-Circle-Scholarships/Scholarship-Information)| Mid-Mar|
+| [Women In Engineering Program By Google](https://we.talentsprint.com/)|Mar|
+|[J.P. Morgan Quant Mentorship Program](https://jpmc.recsolu.com/external/events/7fhj8JsCg3MnReoSQFtVVg)|Mid-Mar|
+|[Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/)|Mar|
+|[J.P. Morgan APAC Women Who Trade](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210078136)|Mar|
 
 
 <li><h2>Programs to Recieve Goodies</h2></li>
