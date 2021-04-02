@@ -54,6 +54,9 @@
 |[Summer Garage Internship Program, Microsoft](https://careers.microsoft.com/us/en/job/929490/Intern-Opportunities-for-Students-Summer-Garage-Internship-Program-Software-Engineering-Program-Management-Vancouver)|||
 |[Gnome Internship program](https://wiki.gnome.org/Internships#Eligibility)| Dec-Mar | Sept - Oct |
 |[Outreachy Internship](https://www.outreachy.org/)|May- Aug| Feb|
+|[GitHub Campus Externship Program](https://github.com/github/india/blob/main/Students/EXTERNSHIPS.md)|June - Sept | May 21|
+
+
 
 
 
