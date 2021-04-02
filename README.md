@@ -158,6 +158,7 @@
 | [Grace Hopper Celebrations](https://ghc.anitab.org/attend/academics/) | Jan- Feb|
 | [Expedia Travel Transforms](https://www.interviewbit.com/contest/travel-transforms-2021--discover-what-you-do-best/)| Feb |
 | [Facebook Data Challenge](https://datachallenge2021.splashthat.com/) | Jan- Mar |
+| [Android Dev Challenge](https://android-developers.googleblog.com/2021/02/android-dev-challenge-lift-off-with.html?m=1) | Feb - Mar |
 
 
 </ul>
