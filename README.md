@@ -151,6 +151,17 @@
 |[Intel Software Innovator Program](https://devmesh.intel.com/member-programs/intel-software-innovator-program)| Open all year!|
 
 
+<li><h2>Campus Ambassador Programs</h2></li>
+| Name & Link       | Tentative deadline |
+| ------------- | -----:|
+| [Microsoft Student Learn Amabassador](https://studentambassadors.microsoft.com/) |  |
+| [Developer Student Clubs](https://developers.google.com/community/dsc/leads) | Apr 20|
+| [GitHub Campus Expert](https://education.github.com/experts) | Jan, Aug|
+| [Oneplus Student Ambassador](https://airtable.com/tblEJnBs8s6hg4CWT/viwCAlty9o4mj8KXS/recV1yCiHVg7taDS0?blocks=hide)| |
+| [Hackerearth](https://airtable.com/tblEJnBs8s6hg4CWT/viwCAlty9o4mj8KXS/recWd0SBScxjoa5QP?blocks=hide) | |
+| [Campus Ninja](https://airtable.com/tblEJnBs8s6hg4CWT/viwCAlty9o4mj8KXS/rec7NEmLC2s2zfnZT?blocks=hide) | |
+| [Code For Cause](https://airtable.com/tblEJnBs8s6hg4CWT/viwCAlty9o4mj8KXS/reclx0YlGtrRLyyJM?blocks=hide) | |
+
 
 
 
